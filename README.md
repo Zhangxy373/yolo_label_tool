@@ -6,6 +6,8 @@
 
 `to_yolo.py`：将COCO格式的json文件转换成YOLO格式的txt文件
 
+`to_image.py`：将多边形格式的json文件转换成黑白掩膜格式的标签文件
+
 `trans.py`：将RLE格式的json文件转换为多边形格式的json文件
 
 `view.py`：在原图上查看txt格式的标签
@@ -15,6 +17,8 @@ These are a few self-used applets for processing label data in different formats
 `rename.py`: Batch rename of files
 
 `to_yolo.py` : converts the COCO json file to the YOLO txt file
+
+`to_image.py`: Convert polygon format json file into black and white mask format label file
 
 `trans.py` : converts the RLE format json file to a polygon format json file
 
